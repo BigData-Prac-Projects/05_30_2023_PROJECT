@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# HDFS operations (unable to run this as CloudXLab storage is full)
+# HDFS operations (unable to run this, as CloudXLab storage is full)
 # hdfs dfs -mkdir /user/bigdatacloudxlab27228/SRD_05312023_UK_Accidents_Curated
 
 # Hive operations

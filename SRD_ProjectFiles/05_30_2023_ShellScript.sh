@@ -10,6 +10,7 @@ use srd_05212023_uk_accidents_hive_db;
 show tables;
 select * from uk_accidents limit 5;
 
+
 CREATE EXTERNAL TABLE IF NOT EXISTS uk_accidents (
   Accident_Index STRING,
   Vehicle_Reference INT,
